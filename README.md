@@ -1,5 +1,5 @@
 # Dining Philosophers
-An Go implementation for the well known dining philosophers concurrency problem
+A Go implementation for the well known dining philosophers concurrency problem
 
 This is my first Go development, so be indulgent. It is based on a Coursera assignment for the course I followed on Go programming.
 
